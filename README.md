@@ -8,6 +8,9 @@ view the latest version of this document at [github.com/sshikshu/resume](https:/
 
 <hr />
 
+## Frontend Developer at [Healofy](https://healofy.com) May 2018 -
+react, redux, rxjs (epics)
+
 ## Full Stack Developer at [Automate.io](https://automate.io/app) Jun 2016 to Feb 2018
 
 angular , ngrx(redux), rxjs - typescript
