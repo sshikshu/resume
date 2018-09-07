@@ -9,7 +9,7 @@ view the latest version of this document at [github.com/sshikshu/resume](https:/
 <hr />
 
 ## Full Stack Developer at [Healofy](https://healofy.com) May 2018 -
-react, redux, rxjs (epics)
+react, redux, rxjs (epics)  
 koa - javascript(node)
 
 ## Full Stack Developer at [Automate.io](https://automate.io/app) Jun 2016 to Feb 2018
