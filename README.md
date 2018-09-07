@@ -14,7 +14,7 @@ koa - javascript(node)
 
 ## Full Stack Developer at [Automate.io](https://automate.io/app) Jun 2016 to Feb 2018
 
-angular , ngrx(redux), rxjs - typescript
+angular , ngrx(redux), rxjs - typescript  
 express - javascript(node)
 
 * Solely responsible for writing/maintaining the web app (frontend)
@@ -24,7 +24,7 @@ express - javascript(node)
 
 ## Software Engineer at [MAQ Software](https://maqsoftware.com/) Jun 2014 to May 2015
 
-sharepoint - C#
+sharepoint - C#  
 knockout - javascript
 
 * Worked as part of various teams on implementing a sharepoint solution for 2+ clients
