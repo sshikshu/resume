@@ -10,22 +10,26 @@ view the latest version of this document at [github.com/sshikshu/resume](https:/
 
 ## Backend Devops at [Healofy](https://healofy.com) May 2018 -
 
-koa - javascript/typescript (node)
-golang
+golang, koa - javascript/typescript (node)
 
-aws (cloudfront, lambda, ses, sns), gcp (firestore, funcions, kubernetes, cloud run, memorystore, vms), ffmpeg, puppeteer, redis
+aws (cloudfront, lambda, ses, sns), gcp (bigquery, firestore, funcions, kubernetes, cloud run, memorystore, vms)
 
-- Responsible for chat system
+kafka, mongodb, postgres, puppeteer, redis
+
+- Responsible for chat system (dashboards, elections, messaging, notifications)
 - Worked on notification systems
 - Built Image/Video compression system
 - Built Group (Bulk) Buying ecommerce system
+- Maintaining frontend systems (react, redux)
 
 ## Full Stack Developer at [Automate.io](https://automate.io/app) Jun 2016 to Feb 2018
 
 angular , ngrx(redux), rxjs - typescript  
 express - javascript(node)
 
-aws (ec2), mongodb
+aws (ec2)
+
+mongodb
 
 - Solely responsible for writing/maintaining the web app (frontend)
 - Involved in integrating payment (stripe)
@@ -46,7 +50,7 @@ sql
 
 express - javascript(node)
 
-- Developed web app (jquery)
+- Developed web dashboard (jquery)
 
 ## B Tech in Computer Science at [NIT Rourekela](http://www.nitrkl.ac.in/) 2010 to 2014
 
@@ -54,23 +58,13 @@ express - javascript(node)
 
 <hr />
 
-## Hobby Projects
-
-1. [**filesharoo**]- ephemeral file sharing app
-   - golang [gitlab.com/filesharoo/api](https://gitlab.com/filesharoo/api)
-   - react, redux, epics (rxjs) - typescript [gitlab.com/filesharoo/client](https://gitlab.com/filesharoo/client)
-2. [**jsontools**](sshikshu.github.io/jsontools) - simple json formatter/beautifier
-   - vue, vuex - javascript [github.com/sshikshu/jsontools](https://github.com/sshikshu/jsontools)
-
-<hr />
-
 ## Technical Skills
 
-1. express, koa, gcp cloud functions, aws lambda (node - typescript/javascript)
-2. golang
-3. react, redux, epics
+1. backend - node (express/koa), golang
+2. frontend - react (redux epics)
 
 <hr />
 
 - [github.com/sshikshu](https://github.com/sshikshu)
+- [github.com/nullorm](https://github.com/nullorm)
 - [gitlab.com/nullorm](https://gitlab.com)
