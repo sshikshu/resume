@@ -12,7 +12,7 @@ view the latest version of this document at [github.com/sshikshu/resume](https:/
 
 golang, koa - javascript/typescript (node)
 
-aws (cloudfront, lambda, ses, sns), gcp (bigquery, firestore, funcions, kubernetes, cloud run, memorystore, vms)
+aws (cloudfront, lambda, ses, sns), gcp (bigquery, firestore, functions, kubernetes, cloud run, memorystore, vms)
 
 kafka, mongodb, postgres, puppeteer, redis
 
