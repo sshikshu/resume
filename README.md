@@ -2,7 +2,7 @@
 
 [shashwat.shikshu@gmail.com](mailto:shashwat.shikshu@gmail.com)
 
-[+91 9472482154](tel:+919113487762)
+[+91 9113487762](tel:+919113487762)
 
 view the latest version of this document at [github.com/sshikshu/resume](https://github.com/sshikshu/resume)
 
